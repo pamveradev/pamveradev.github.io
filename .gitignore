@@ -35,3 +35,9 @@ dist-ssr
 # OS
 .DS_Store
 Thumbs.db
+
+#files
+DEPLOY_GUIDE.md
+ESTRUCTURA.md
+READ-ME.md
+GUIA_RAPIDA.md
